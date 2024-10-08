@@ -1,0 +1,36 @@
+.clients-logo .slick-slide > div{
+    padding: 5px;
+}
+.client-thumb {
+    border: 1px solid #ddd;
+    height: 120px;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.client-thumb img{
+    padding: 10px;
+    height: 100px;
+    object-fit: contain;
+    object-position: center center;
+}
+
+/* .container_slider {
+    position: relative;
+    width: 100%;
+    height: 120px;
+}
+
+.container_imgslider {
+    position: absolute;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.slidertxt {
+    position: relative;
+    width: 100%;
+    margin-left: 20%;
+} */
